@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+- 🔍  Lets Explore DevOps with ease.
 <!--
 **shree3524\shree3524** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
