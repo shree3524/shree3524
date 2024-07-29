@@ -1,4 +1,4 @@
-## Hi there 👋
+# $${\color{blue} \textbf{Hi there 👋}}$$
 
 - 🔍  Lets Explore DevOps with ease.
 <!--
@@ -41,6 +41,10 @@ Here are some ideas to get you started:
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
+
+![pv](https://pageview.vercel.app/?github_user=shree3524)
+
+![devops-demo](https://github.com/user-attachments/assets/772a360f-1235-4bb9-a40e-bae6e144c1fe)
 
 
 
